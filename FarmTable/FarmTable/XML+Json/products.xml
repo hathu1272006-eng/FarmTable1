@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Cà chua bi hữu cơ Đà Lạt</name>
+    <farm>Nông trại Đà Lạt Xanh</farm>
+    <price>45000</price>
+    <oldPrice />
+    <unit>kg</unit>
+    <category>rau-cu</category>
+    <certifications><item>Hữu cơ</item><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1615486171815-2611a6e3cd02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGVycnklMjB0b21hdG98ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1546094096-0df4bcaaa337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxjaGVycnklMjB0b21hdG98ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1524593166156-312f362cada0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxjaGVycnklMjB0b21hdG98ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1592841200221-a6898f307baa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxjaGVycnklMjB0b21hdG98ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Cà chua bi được trồng hoàn toàn bằng phương pháp hữu cơ tại nhà màng Đà Lạt. Trái nhỏ, vỏ mỏng, cắn vào giòn ngọt và mọng nước. Thích hợp ăn sống, làm salad hoặc nước ép.</description>
+    <rating>4.9</rating>
+    <reviewCount>120</reviewCount>
+    <soldCount>450</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>2</id>
+    <name>Cải bó xôi VietGAP</name>
+    <farm>Vườn rau sạch Mộc Châu</farm>
+    <price>35000</price>
+    <oldPrice>45000</oldPrice>
+    <unit>kg</unit>
+    <category>rau-cu</category>
+    <certifications><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1576045057995-568f588f82fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcGluYWNofGVufDF8fHx8MTc4Mjg0OTMxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxzcGluYWNofGVufDF8fHx8MTc4Mjg0OTMxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1580910365203-91ea9115a319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxzcGluYWNofGVufDF8fHx8MTc4Mjg0OTMxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1651427660796-1bc57aafa229?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxzcGluYWNofGVufDF8fHx8MTc4Mjg0OTMxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Cải bó xôi (spinach) Mộc Châu lá xanh đậm, non mềm, giàu kẽm và sắt. Canh tác trong nhà màng kín theo chuẩn VietGAP, đảm bảo không dư lượng thuốc BVTV.</description>
+    <rating>4.8</rating>
+    <reviewCount>85</reviewCount>
+    <soldCount>320</soldCount>
+    <badge>Sale</badge>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Dâu tây New Zealand</name>
+    <farm>Dâu Tây Đà Lạt</farm>
+    <price>180000</price>
+    <oldPrice>200000</oldPrice>
+    <unit>hộp 500g</unit>
+    <category>trai-cay</category>
+    <certifications><item>Hữu cơ</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdHJhd2JlcnJ5fGVufDF8fHx8MTc4Mjg0OTMyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1587393855524-087f83d95bc9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxzdHJhd2JlcnJ5fGVufDF8fHx8MTc4Mjg0OTMyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1549007953-2f2dc0b24019?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxzdHJhd2JlcnJ5fGVufDF8fHx8MTc4Mjg0OTMyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1594282241894-4da286138f44?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxzdHJhd2JlcnJ5fGVufDF8fHx8MTc4Mjg0OTMyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Giống dâu tây New Zealand được thuần hóa tại Đà Lạt cho quả to, chín đỏ mọng và hương thơm nồng nàn. Độ ngọt đạt chuẩn, thịt quả chắc và mọng nước.</description>
+    <rating>5</rating>
+    <reviewCount>340</reviewCount>
+    <soldCount>1200</soldCount>
+    <badge>Bán chạy</badge>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Cam sành Vĩnh Long</name>
+    <farm>Miệt vườn Miền Tây</farm>
+    <price>25000</price>
+    <oldPrice />
+    <unit>kg</unit>
+    <category>trai-cay</category>
+    <certifications></certifications>
+    <mainImage>https://images.unsplash.com/photo-1557800636-894a64c1696f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvcmFuZ2UlMjB0YW5nZXJpbmV8ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxvcmFuZ2UlMjB0YW5nZXJpbmV8ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1547514701-42782101795e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxvcmFuZ2UlMjB0YW5nZXJpbmV8ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxvcmFuZ2UlMjB0YW5nZXJpbmV8ZW58MXx8fHwxNzgyODQ5MzIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Cam sành Vĩnh Long vỏ mỏng, mọng nước, vị chua ngọt thanh mát. Đây là nguồn cung cấp Vitamin C tự nhiên tuyệt vời cho cả gia đình mỗi ngày.</description>
+    <rating>4.7</rating>
+    <reviewCount>56</reviewCount>
+    <soldCount>890</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>5</id>
+    <name>Súp lơ xanh</name>
+    <farm>HTX Nông nghiệp Đức Trọng</farm>
+    <price>40000</price>
+    <oldPrice />
+    <unit>bắp</unit>
+    <category>rau-cu</category>
+    <certifications><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1685504445355-0e7bdf90d415?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicm9jY29saXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1583663848850-46af132dc08e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxicm9jY29saXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1590779033100-9f60a05a013d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxicm9jY29saXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1614336215203-05a588f74627?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxicm9jY29saXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Súp lơ xanh tươi rói, hoa mọc ken đặc và có màu xanh tươi mát. Thích hợp xào, hấp hoặc làm món ăn dặm giàu dinh dưỡng cho bé.</description>
+    <rating>4.8</rating>
+    <reviewCount>92</reviewCount>
+    <soldCount>410</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>6</id>
+    <name>Nấm đùi gà</name>
+    <farm>Trang trại nấm Việt</farm>
+    <price>65000</price>
+    <oldPrice />
+    <unit>500g</unit>
+    <category>rau-cu</category>
+    <certifications><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1542913235-1f46ce06443d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxveXN0ZXIlMjBtdXNocm9vbXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1572782132197-79d85a8d16de?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxveXN0ZXIlMjBtdXNocm9vbXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1586686804243-d763a9afb755?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxveXN0ZXIlMjBtdXNocm9vbXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1611281404780-95799250d540?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxveXN0ZXIlMjBtdXNocm9vbXxlbnwxfHx8fDE3ODI4NDkzMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Nấm đùi gà thân to, chắc thịt, khi chế biến ăn giòn ngọt sần sật. Đây là thực phẩm giàu đạm thực vật, có thể dùng thay thế thịt trong các món xào, nướng.</description>
+    <rating>4.9</rating>
+    <reviewCount>110</reviewCount>
+    <soldCount>530</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>7</id>
+    <name>Thịt heo sạch CP</name>
+    <farm>Trang trại CP</farm>
+    <price>120000</price>
+    <oldPrice>140000</oldPrice>
+    <unit>kg</unit>
+    <category>thit-thuy-san</category>
+    <certifications><item>GlobalGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1628268909376-e8c44bb3153f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyYXclMjBwb3JrJTIwbWVhdHxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1611059263765-f57653f3bba3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxyYXclMjBwb3JrJTIwbWVhdHxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1609518317991-10acee259279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxyYXclMjBwb3JrJTIwbWVhdHxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1612156502174-bbbad9882af2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxyYXclMjBwb3JrJTIwbWVhdHxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Thịt heo sạch từ trang trại khép kín 3F của CP, quy trình giết mổ nhân đạo và cấp đông sâu ngay sau đó giúp bảo lưu trọn vẹn độ tươi ngon và dưỡng chất.</description>
+    <rating>4.8</rating>
+    <reviewCount>230</reviewCount>
+    <soldCount>1150</soldCount>
+    <badge>Sale</badge>
+  </product>
+  <product>
+    <id>8</id>
+    <name>Trứng gà thả vườn</name>
+    <farm>Trại gà ta Gò Công</farm>
+    <price>45000</price>
+    <oldPrice />
+    <unit>chục</unit>
+    <category>trung-sua</category>
+    <certifications><item>Hữu cơ</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1639194335563-d56b83f0060c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwZWdnfGVufDF8fHx8MTc4Mjg0OTMyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1536816579748-4ecb3f03d72a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxjaGlja2VuJTIwZWdnfGVufDF8fHx8MTc4Mjg0OTMyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1506976785307-8732e854ad03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxjaGlja2VuJTIwZWdnfGVufDF8fHx8MTc4Mjg0OTMyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1587486913049-53fc88980cfc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxjaGlja2VuJTIwZWdnfGVufDF8fHx8MTc4Mjg0OTMyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Gà được chăn thả tự nhiên tại vườn cây ăn trái, bổ sung thêm bắp và lúa. Trứng nhỏ, vỏ nhám nhưng lòng đỏ to, màu cam sậm và đặc biệt thơm ngon.</description>
+    <rating>4.9</rating>
+    <reviewCount>175</reviewCount>
+    <soldCount>880</soldCount>
+    <badge>Bán chạy</badge>
+  </product>
+  <product>
+    <id>9</id>
+    <name>Táo Fuji Nam Phi</name>
+    <farm>Nhập khẩu</farm>
+    <price>85000</price>
+    <oldPrice />
+    <unit>kg</unit>
+    <category>trai-cay</category>
+    <certifications><item>GlobalGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZWQlMjBhcHBsZXxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxyZWQlMjBhcHBsZXxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxyZWQlMjBhcHBsZXxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxyZWQlMjBhcHBsZXxlbnwxfHx8fDE3ODI4NDkzMjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Táo Fuji nhập khẩu chính ngạch từ Nam Phi, được tuyển chọn kỹ lưỡng. Quả to, giòn đanh, mọng nước và có vị ngọt đậm đặc trưng vô cùng hấp dẫn.</description>
+    <rating>4.7</rating>
+    <reviewCount>110</reviewCount>
+    <soldCount>500</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>10</id>
+    <name>Cà rốt gãy nhỏ giải cứu</name>
+    <farm>HTX Nông nghiệp Đức Trọng</farm>
+    <price>15000</price>
+    <oldPrice>30000</oldPrice>
+    <unit>kg</unit>
+    <category>rau-cu</category>
+    <certifications><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXJyb3R8ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxjYXJyb3R8ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1633380110125-f6e685676160?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxjYXJyb3R8ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1589927986089-35812388d1f4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxjYXJyb3R8ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Cà rốt nhỏ hoặc gãy do quá trình thu hoạch nhưng chất lượng, hương vị không đổi. Hỗ trợ tiêu thụ nông sản loại 2 giúp nông dân giảm thiệt hại.</description>
+    <rating>4.6</rating>
+    <reviewCount>45</reviewCount>
+    <soldCount>300</soldCount>
+    <badge>Giải cứu</badge>
+  </product>
+  <product>
+    <id>11</id>
+    <name>Cá basa tươi sống</name>
+    <farm>Hải sản Sông Tiền</farm>
+    <price>55000</price>
+    <oldPrice>65000</oldPrice>
+    <unit>kg</unit>
+    <category>thit-thuy-san</category>
+    <certifications></certifications>
+    <mainImage>https://images.unsplash.com/photo-1723975465129-269a531e8658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXRmaXNofGVufDF8fHx8MTc4Mjg0OTMyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1515735543535-12664d2453f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxjYXRmaXNofGVufDF8fHx8MTc4Mjg0OTMyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1663870947073-c6ef23f30970?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxjYXRmaXNofGVufDF8fHx8MTc4Mjg0OTMyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1502839604051-1d3956c4d9c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxjYXRmaXNofGVufDF8fHx8MTc4Mjg0OTMyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Cá basa đánh bắt và làm sạch ngay tại bè, thịt trắng phau, mỡ béo ngậy rất thích hợp làm món kho tộ hoặc nấu canh chua đậm đà miền Tây.</description>
+    <rating>4.8</rating>
+    <reviewCount>95</reviewCount>
+    <soldCount>420</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>12</id>
+    <name>Khoai tây vàng Đà Lạt</name>
+    <farm>Nông trại Cậu Hai</farm>
+    <price>32000</price>
+    <oldPrice />
+    <unit>kg</unit>
+    <category>rau-cu</category>
+    <certifications><item>VietGAP</item></certifications>
+    <mainImage>https://images.unsplash.com/photo-1518977676601-b53f82aba655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwb3RhdG98ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1590165482129-1b8b27698780?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxwb3RhdG98ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1617130094141-532436117aa1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxwb3RhdG98ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1675501344642-92d35d90fe51?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxwb3RhdG98ZW58MXx8fHwxNzgyODQ5MzIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Khoai tây vỏ mỏng, màu vàng ươm, khi luộc hoặc nướng rất bở và thơm. Nguồn tinh bột chất lượng cao thích hợp cho mọi bữa ăn.</description>
+    <rating>4.9</rating>
+    <reviewCount>160</reviewCount>
+    <soldCount>740</soldCount>
+    <badge />
+  </product>
+  <product>
+    <id>13</id>
+    <name>Mystery Box Trái Cây</name>
+    <farm>Các nông trại liên kết</farm>
+    <price>150000</price>
+    <oldPrice>200000</oldPrice>
+    <unit>hộp</unit>
+    <category>trai-cay</category>
+    <certifications></certifications>
+    <mainImage>https://images.unsplash.com/photo-1619566636858-adf3ef46400b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmcnVpdCUyMGJhc2tldHxlbnwxfHx8fDE3ODI4NDkzMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</mainImage>
+    <galleryImages><item>https://images.unsplash.com/photo-1609780447631-05b93e5a88ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxmcnVpdCUyMGJhc2tldHxlbnwxfHx8fDE3ODI4NDkzMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1641573260130-74d81b179809?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxmcnVpdCUyMGJhc2tldHxlbnwxfHx8fDE3ODI4NDkzMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item><item>https://images.unsplash.com/photo-1629905707362-03cf1a9f6e2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxmcnVpdCUyMGJhc2tldHxlbnwxfHx8fDE3ODI4NDkzMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</item></galleryImages>
+    <description>Hộp quà bất ngờ với 3-4 loại trái cây theo mùa thu hoạch trong ngày. Giá trị thực luôn cao hơn giá bán, mang đến trải nghiệm thú vị mỗi lần mở hộp.</description>
+    <rating>4.9</rating>
+    <reviewCount>210</reviewCount>
+    <soldCount>950</soldCount>
+    <badge>Bí ẩn</badge>
+  </product>
+</products>
